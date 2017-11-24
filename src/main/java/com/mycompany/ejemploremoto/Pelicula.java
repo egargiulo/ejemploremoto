@@ -10,5 +10,8 @@ package com.mycompany.ejemploremoto;
  * @author formacion
  */
 public class Pelicula {
+
+    public Pelicula() {
+    }
     
 }
