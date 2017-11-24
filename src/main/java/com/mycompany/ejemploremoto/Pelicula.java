@@ -9,6 +9,6 @@ package com.mycompany.ejemploremoto;
  *
  * @author formacion
  */
-class Pelicula {
+public class Pelicula {
     
 }
